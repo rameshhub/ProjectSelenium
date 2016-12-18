@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30788" started-at="2016-12-17T10:40:07Z" finished-at="2016-12-17T10:40:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30788" started-at="2016-12-17T10:40:07Z" finished-at="2016-12-17T10:40:38Z">
+      <class name="MavenDemoQaTest.DemoArtifact1.TestTest">
+        <test-method status="PASS" signature="TY()[pri:0, instance:MavenDemoQaTest.DemoArtifact1.TestTest@29ee9faa]" name="TY" is-config="true" duration-ms="11606" started-at="2016-12-17T16:10:07Z" finished-at="2016-12-17T16:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TY -->
+        <test-method status="PASS" signature="M(java.lang.String, java.lang.String)[pri:0, instance:MavenDemoQaTest.DemoArtifact1.TestTest@29ee9faa]" name="M" duration-ms="2240" started-at="2016-12-17T16:10:19Z" data-provider="M2" finished-at="2016-12-17T16:10:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[workshare2013]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[second@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M -->
+        <test-method status="PASS" signature="K()[pri:0, instance:MavenDemoQaTest.DemoArtifact1.TestTest@29ee9faa]" name="K" is-config="true" duration-ms="30" started-at="2016-12-17T16:10:21Z" finished-at="2016-12-17T16:10:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- K -->
+        <test-method status="PASS" signature="TY()[pri:0, instance:MavenDemoQaTest.DemoArtifact1.TestTest@29ee9faa]" name="TY" is-config="true" duration-ms="14834" started-at="2016-12-17T16:10:21Z" finished-at="2016-12-17T16:10:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TY -->
+        <test-method status="PASS" signature="M(java.lang.String, java.lang.String)[pri:0, instance:MavenDemoQaTest.DemoArtifact1.TestTest@29ee9faa]" name="M" duration-ms="2003" started-at="2016-12-17T16:10:36Z" data-provider="M2" finished-at="2016-12-17T16:10:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testingbasics500]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[second@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M -->
+        <test-method status="PASS" signature="K()[pri:0, instance:MavenDemoQaTest.DemoArtifact1.TestTest@29ee9faa]" name="K" is-config="true" duration-ms="41" started-at="2016-12-17T16:10:38Z" finished-at="2016-12-17T16:10:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- K -->
+      </class> <!-- MavenDemoQaTest.DemoArtifact1.TestTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
