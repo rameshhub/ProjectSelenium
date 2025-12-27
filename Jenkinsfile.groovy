@@ -2,8 +2,8 @@ pipeline {
     agent any
 
     tools {
-        maven 'Maven-3.9.6'     
-        jdk 'JDK-17'           
+        maven 'Maven-4.0.0'     
+        jdk 'JDK-21'           
     }
 
     environment {
@@ -15,7 +15,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 git branch: 'main',
-                    url: 'https://github.com/your-repo/selenium-project.git'
+                    url: 'https://github.com/rameshhub/ProjectSelenium.git'
             }
         }
 
